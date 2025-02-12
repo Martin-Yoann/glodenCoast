@@ -3,7 +3,7 @@
       <div></div>
       <div></div>
       <div>
-        <span>Email:  <i>cs@northmountaindistroinc.com</i></span>
+        <span>Email:  <i>cs@glodencoast.com</i></span>
       </div>
     </div>
   </template>
